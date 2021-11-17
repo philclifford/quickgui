@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-09-29 09:59+0200\n"
+"PO-Revision-Date: 2021-11-17 03:16+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 ? 0 : n%10==2 ? 1 : n%100==0 || n%100==20 || n%100==40 || n%100==60 || n%100==80 ? 2 : 3);\n"
+"Last-Translator: Phil Clifford <philip.clifford@gmail.com>\n"
+"Language: gv\n"
+
+#, fuzzy
+msgid "Quickgui : a Flutter frontend for Quickget and Quickemu"
+msgstr "Quickgui : a Flutter frontend for Quickget and Quickemu"
+
+#, fuzzy
+msgid "Main menu"
+msgstr "Claare Cadjin"
+
+msgid "Use dark mode"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Scryss"
+
+msgid "Click to use SPICE display"
+msgstr ""
+
+msgid "Create new machines"
+msgstr ""
+
+msgid "Dismiss"
+msgstr ""
+
+msgid "Done !"
+msgstr ""
+
+#, fuzzy
+msgid "Download"
+msgstr "Laadey neose kiangley"
+
+#, fuzzy
+msgid "Download finished."
+msgstr "Stoo laadey neose Jeant"
+
+msgid "Downloader"
+msgstr ""
+
+msgid "Downloading (no progress available)..."
+msgstr ""
+
+msgid "Downloading...{0}%"
+msgstr ""
+
+#, fuzzy
+msgid "Downloading {0}"
+msgstr "Gerund"
+
+#, fuzzy
+msgid "Download complete"
+msgstr "Laadey neose kiangley"
+
+msgid "Download of {0} has completed."
+msgstr ""
+
+msgid "Manage existing machines"
+msgstr ""
+
+#, fuzzy
+msgid "Manager"
+msgstr "Reireyder coadanyn"
+
+msgid "{0} Mbs downloaded"
+msgstr ""
+
+msgid "Now run {0} to start the VM"
+msgstr ""
+
+msgid "OK"
+msgstr "Kiart dy liooar "
+
+msgid "Operating system"
+msgstr ""
+
+msgid "Search operating system"
+msgstr ""
+
+msgid "Search option"
+msgstr "Shirrey"
+
+msgid "Select operating system"
+msgstr ""
+
+msgid "Select option"
+msgstr ""
+
+msgid "Select version for {0}"
+msgstr ""
+
+#, fuzzy
+msgid "Select..."
+msgstr "Reih Oilley"
+
+msgid "SPICE port"
+msgstr "SPICE"
+
+#, fuzzy
+msgid "SSH port"
+msgstr "SSH"
+
+msgid "Stop The Virtual Machine?"
+msgstr ""
+
+#, fuzzy
+msgid "Target folder : {0}"
+msgstr "Coodagh  fillit: {0}"
+
+msgid "Use SPICE display"
+msgstr ""
+
+msgid "Using SPICE display"
+msgstr ""
+
+msgid "Version"
+msgstr "Sorçh"
+
+msgid "Waiting for download to start"
+msgstr ""
+
+msgid "You are about to terminate the virtual machine {0}"
+msgstr ""
